@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/arielleviews__" target="blank"><img src="https://img.shields.io/twitter/follow/arielleviews__?logo=twitter&style=for-the-badge" alt="arielleviews__" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Prediction**
+- 🔭 I’m currently working on **Stock Predictor**
 
-- 🌱 I’m currently learning **Javascript,TypeScript & frontend development**
+- 🌱 I’m currently learning **Javascript,TypeScript & Frontend development**
 
-- 👯 I’m looking to collaborate on **Backend development & machine learning**
+- 👯 I’m looking to collaborate on **Backend development & Machine learning**
 
-- 🤝 I’m looking for help with **Frontend & machine learning**
+- 🤝 I’m looking for help with **Frontend & Machine learning**
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
-- 📫 How to reach me **ariellebriscoe1881@gmail.com**
+- 📫 How to reach me **parisiarielle@gmail.com**
 
 - ⚡ Fun fact **I practice ballet and gardening**
 

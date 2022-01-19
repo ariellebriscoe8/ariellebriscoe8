@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stock Predictor**
 
-- 🌱 I’m currently learning **Javascript,TypeScript & Frontend development**
+- 🌱 I’m currently learning **TypeScript, Neural Networks & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Backend development & Machine learning**
 

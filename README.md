@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arielle</h1>
-<h3 align="center">A passionate backend developer, machine learning engineer, data scientist & engineer from Texas</h3>
+<h3 align="center">I work in ML/Data in Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariellebriscoe8&label=Profile%20views&color=0e75b6&style=flat" alt="ariellebriscoe8" /> </p>
 

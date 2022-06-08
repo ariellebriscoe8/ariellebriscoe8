@@ -5,19 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/arielleviews__" target="blank"><img src="https://img.shields.io/twitter/follow/arielleviews__?logo=twitter&style=for-the-badge" alt="arielleviews__" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Predictor**
+- This github is being updated. All projects/repos are stored locally and being pushed soon. If you have a question or inquiry about project please let me know. I would love to share. 
 
-- 🌱 I’m currently learning **TypeScript, Neural Networks & Machine Learning**
-
-- 👯 I’m looking to collaborate on **Backend development & Machine learning**
-
-- 🤝 I’m looking for help with **Frontend & Machine learning**
-
-- 💬 Ask me about **Data Science & Machine Learning**
-
-- 📫 How to reach me **parisiarielle@gmail.com**
-
-- ⚡ Fun fact **I practice ballet and gardening**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

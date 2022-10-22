@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arielle</h1>
 <h3 align="center">I work in ML/Data in Texas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariellebriscoe8&label=Profile%20views&color=0e75b6&style=flat" alt="ariellebriscoe8" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arielleviews__" target="blank"><img src="https://img.shields.io/twitter/follow/arielleviews__?logo=twitter&style=for-the-badge" alt="arielleviews__" /></a> </p>
-
-- This github is being updated. All projects/repos are stored locally and being pushed soon. If you have a question or inquiry about project please let me know. I would love to share. 
 
 
 ### Blogs posts
@@ -14,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arielleviews__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arielleviews__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ariellebriscoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariellebriscoe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ariellebriscoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ariellebriscoe" height="30" width="40" /></a>
 <a href="/https://www.getrevue.co/profile/arielleviews__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.getrevue.co/profile/arielleviews__" height="30" width="40" /></a>
